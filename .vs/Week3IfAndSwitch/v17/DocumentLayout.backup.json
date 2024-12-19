@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\artem\\source\\repos\\Week3IfAndSwitch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8EBC29-612E-4F46-909A-C5D2E82D8FAD}|SwitchDayOfTheWeek\\SwitchDayOfTheWeek.csproj|c:\\users\\artem\\source\\repos\\week3ifandswitch\\switchdayoftheweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8EBC29-612E-4F46-909A-C5D2E82D8FAD}|SwitchDayOfTheWeek\\SwitchDayOfTheWeek.csproj|solutionrelative:switchdayoftheweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722FAC8E-881C-4EF0-ABF9-A3B7A2F4517E}|Grade\\Grade.csproj|c:\\users\\artem\\source\\repos\\week3ifandswitch\\grade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722FAC8E-881C-4EF0-ABF9-A3B7A2F4517E}|Grade\\Grade.csproj|solutionrelative:grade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD852C9-E5C5-42A6-A0DB-DC0AD3D349E9}|OddOrEven\\OddOrEven.csproj|c:\\users\\artem\\source\\repos\\week3ifandswitch\\oddoreven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD852C9-E5C5-42A6-A0DB-DC0AD3D349E9}|OddOrEven\\OddOrEven.csproj|solutionrelative:oddoreven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6614E37C-8D82-449A-A60A-018693EB5951}|IfDayOfTheWeek\\IfDayOfTheWeek.csproj|c:\\users\\artem\\source\\repos\\week3ifandswitch\\ifdayoftheweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6614E37C-8D82-449A-A60A-018693EB5951}|IfDayOfTheWeek\\IfDayOfTheWeek.csproj|solutionrelative:ifdayoftheweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0665A6-B9E8-4E67-BB40-AFAB8681E291}|Week3IfAndSwitch\\Week3IfAndSwitch.csproj|c:\\users\\artem\\source\\repos\\week3ifandswitch\\week3ifandswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E0665A6-B9E8-4E67-BB40-AFAB8681E291}|Week3IfAndSwitch\\Week3IfAndSwitch.csproj|solutionrelative:week3ifandswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\Week3IfAndSwitch\\Grade\\Program.cs",
+              "RelativeDocumentMoniker": "Grade\\Program.cs",
+              "ToolTip": "C:\\Users\\artem\\source\\repos\\Week3IfAndSwitch\\Grade\\Program.cs",
+              "RelativeToolTip": "Grade\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T17:11:56.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\Week3IfAndSwitch\\SwitchDayOfTheWeek\\Program.cs",
+              "RelativeDocumentMoniker": "SwitchDayOfTheWeek\\Program.cs",
+              "ToolTip": "C:\\Users\\artem\\source\\repos\\Week3IfAndSwitch\\SwitchDayOfTheWeek\\Program.cs",
+              "RelativeToolTip": "SwitchDayOfTheWeek\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:10:55.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\Week3IfAndSwitch\\IfDayOfTheWeek\\Program.cs",
+              "RelativeDocumentMoniker": "IfDayOfTheWeek\\Program.cs",
+              "ToolTip": "C:\\Users\\artem\\source\\repos\\Week3IfAndSwitch\\IfDayOfTheWeek\\Program.cs",
+              "RelativeToolTip": "IfDayOfTheWeek\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:44:09.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\Week3IfAndSwitch\\OddOrEven\\Program.cs",
+              "RelativeDocumentMoniker": "OddOrEven\\Program.cs",
+              "ToolTip": "C:\\Users\\artem\\source\\repos\\Week3IfAndSwitch\\OddOrEven\\Program.cs",
+              "RelativeToolTip": "OddOrEven\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:28:18.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\Week3IfAndSwitch\\Week3IfAndSwitch\\Program.cs",
+              "RelativeDocumentMoniker": "Week3IfAndSwitch\\Program.cs",
+              "ToolTip": "C:\\Users\\artem\\source\\repos\\Week3IfAndSwitch\\Week3IfAndSwitch\\Program.cs",
+              "RelativeToolTip": "Week3IfAndSwitch\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:15:46.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
